@@ -18,8 +18,8 @@
 # git push --force "https://github.com/dr-saad-la/codelabs/hello-codelab" main:gh-pages
 
 # Define directories
-PROJECTS_MARKDOWN_DIR="../projects/01-hello-codelab"
-CODELABS_DIR="../../codelabs/hello-codelab"
+PROJECTS_MARKDOWN_DIR="../../projects/01-hello-codelab"
+CODELABS_DIR="../../codelabs"
 GITHUB_REPO_URL="https://github.com/dr-saad-la/codelabs.git"
 
 # Export the codelab
