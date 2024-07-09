@@ -9,3 +9,10 @@ codelab_markdown_filename=`ls *.md`
 rm -fr temp
 
 claat export -o ../../codelabs/ $codelab_markdown_filename
+
+
+git add .
+git commit -m "Deploy to GitHub Pages"
+
+# Force push to the gh-pages branch
+git push --force "https://github.com/dr-saad-la/codelabs.git" main:gh-pages
