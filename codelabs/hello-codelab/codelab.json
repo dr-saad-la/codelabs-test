@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-07-09T01:34:46+01:00",
+  "id": "hello-codelab",
+  "duration": 8,
+  "title": "How to Write a Codelab",
+  "authors": "Dr Saad Laouadi",
+  "summary": "How to Publish Tutorials Using Codelab",
+  "source": "hello-codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "codelab"
+  ],
+  "url": "hello-codelab"
+}
