@@ -1,17 +1,11 @@
-# Codelabs
+# Codelabs Index
 
-### Starter project
+Welcome to the Codelabs repository. Below you will find links to all the available codelabs projects.
 
-- [Hello Codelab](https://github.com/dr-saad-la/codelabs/tree/main/codelabs/hello-codelab/hello-codelab)
+## Available Codelabs
 
-## Programming
+1. [Hello Codelab](https://dr-saad-la.github.io/codelabs/hello-codelab/#0)
+2. [Anaconda Setup](https://dr-saad-la.github.io/codelabs/anaconda-setup/#0)
+3. [Other Projects](https://dr-saad-la.github.io/codelabs/other-projects/)
 
-
-## Data Science
-
-
-## Data Engineering
-
-
-## Automation
-
+More projects will be added soon. Stay tuned!
