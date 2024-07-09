@@ -15,4 +15,4 @@ git add .
 git commit -m "Deploy to GitHub Pages"
 
 # Force push to the gh-pages branch
-git push --force "https://github.com/dr-saad-la/codelabs.git" main:gh-pages
+git push --force "https://github.com/dr-saad-la/codelabs/hello-codelab" main:gh-pages
