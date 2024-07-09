@@ -3,7 +3,7 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2024-07-09T01:34:46+01:00",
+  "updated": "2024-07-09T01:58:50+01:00",
   "id": "hello-codelab",
   "duration": 8,
   "title": "How to Write a Codelab",
@@ -20,5 +20,6 @@
   "tags": [
     "codelab"
   ],
+  "feedback": "https://github.com/dr-saad-la/codelabs/tree/main/codelabs/hello-codelab",
   "url": "hello-codelab"
 }
